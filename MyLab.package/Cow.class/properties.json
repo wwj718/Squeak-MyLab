@@ -1,0 +1,14 @@
+{
+	"category" : "MyLab",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Cow",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
